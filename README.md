@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Rotimi, and welcome to my github bio.
 - 👀 I’m a Computer scientist, Software Engineer and an Interior Designer.
-- 📍 I'm the Creative Design Director of Interior Affairx Nigeria.
+- 📍 I'm the Creative Design Director of Fairx Interiors.
+- 📍 Co-Founder Autemus Inc.
 - 📍 I have over 2 years experience in the field of software, writing clean code and using best engineering pratices.
-- 🌱 I’m currently learning python..
+- 🌱 I’m currently embedded system programming..
 - 💞️ I’m looking to collaborate on Project.
 - 📫 You can further reach out to me via this additional channel👇
 - Twitter.com/rohteemie
