@@ -1,5 +1,5 @@
 - 📍 A Computer scientist, Software Engineer and an Interior Designer.
-- 📍 Backend Engineer @Autemus-Inc and the Creative Director @Fairx Interiors
+- 📍 Backend Engineer @Autemus-Inc, Nextech-Solution and the creative director @Fairx Interiors
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- 
 📫 Click👇 link below for futher information and a faster response.
  
